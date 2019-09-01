@@ -79,6 +79,7 @@ final class Configuration implements ConfigurationInterface
             'windows_live',
             'wordpress',
             'wunderlist',
+            'wechat',
             'yandex',
             '37signals',
             'itembase',
